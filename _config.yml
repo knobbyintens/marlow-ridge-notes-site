@@ -1,0 +1,9 @@
+title: Marlow Ridge Project Site
+description: Research notes, publications, and project updates from Marlow Ridge Research.
+theme: jekyll-theme-minimal
+show_downloads: false
+navigation:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /publications
